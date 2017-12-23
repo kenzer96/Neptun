@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Bread/CLionProjects/Neptun/Person.cpp
+Person.h
+C:/Users/Bread/CLionProjects/Neptun/Person.h
+
+C:/Users/Bread/CLionProjects/Neptun/Person.h
+string
+-
+
+C:/Users/Bread/CLionProjects/Neptun/Student.cpp
+Student.h
+C:/Users/Bread/CLionProjects/Neptun/Student.h
+
+C:/Users/Bread/CLionProjects/Neptun/Student.h
+unordered_map
+-
+map
+-
+bits/unordered_map.h
+-
+Person.h
+C:/Users/Bread/CLionProjects/Neptun/Person.h
+functional
+-
+
+C:/Users/Bread/CLionProjects/Neptun/main.cpp
+iostream
+-
+
